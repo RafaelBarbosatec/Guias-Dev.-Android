@@ -146,3 +146,6 @@ http://examples.javacodegeeks.com/android/android-google-analytics-v4-example/
 
 #Coordinator Layout
 http://saulmm.github.io/mastering-coordinator
+
+#Miniatura de video Recyclerview
+https://android-arsenal.com/details/1/3106
