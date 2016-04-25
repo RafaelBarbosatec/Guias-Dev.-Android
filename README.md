@@ -152,3 +152,4 @@ https://android-arsenal.com/details/1/3106
 
 #cropImage
 https://github.com/jdamcd/android-crop
+https://github.com/Yalantis/uCrop
