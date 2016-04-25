@@ -149,3 +149,6 @@ http://saulmm.github.io/mastering-coordinator
 
 #Miniatura de video Recyclerview
 https://android-arsenal.com/details/1/3106
+
+#cropImage
+https://github.com/jdamcd/android-crop
