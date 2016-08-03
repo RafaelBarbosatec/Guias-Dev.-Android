@@ -159,3 +159,6 @@ https://android-arsenal.com/details/1/3317
 
 #share guia
 https://github.com/codepath/android_guides/wiki/Sharing-Content-with-Intents
+
+#material-dialogs
+https://github.com/afollestad/material-dialogs
