@@ -2,6 +2,9 @@
 # Android
 Projetos android (Bibliotecas e Tutoriais Importantes)
 
+#Guia Volley
+http://arnab.ch/blog/2013/08/asynchronous-http-requests-in-android-using-volley/
+
 #Blogs e Sites Útil(Muito Bom)
 http://www.androidhive.info/
 https://blog.stylingandroid.com/
