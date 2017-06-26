@@ -159,6 +159,9 @@ https://android-arsenal.com/details/1/3106
 https://github.com/jdamcd/android-crop
 https://github.com/Yalantis/uCrop
 
+#Shape Gradiente e solid 
+http://angrytools.com/gradient/
+
 #Gesture Recycler
 https://android-arsenal.com/details/1/3317
 
