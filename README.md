@@ -173,3 +173,6 @@ https://github.com/afollestad/material-dialogs
 
 #SlidingTutorial-Android
 https://github.com/Cleveroad/SlidingTutorial-Android
+
+#Encrypt
+https://github.com/idsyn/Encrypt
