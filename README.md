@@ -177,3 +177,6 @@ https://github.com/Cleveroad/SlidingTutorial-Android
 #Encrypt
 https://github.com/idsyn/Encrypt
 no android usar a lib: "compile 'commons-codec:commons-codec:1.8'"
+
+#UTIL ANDROID
+https://github.com/Blankj/AndroidUtilCode
