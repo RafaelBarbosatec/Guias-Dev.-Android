@@ -180,3 +180,6 @@ no android usar a lib: "compile 'commons-codec:commons-codec:1.8'"
 
 #UTIL ANDROID
 https://github.com/Blankj/AndroidUtilCode
+
+#searchview
+https://github.com/arimorty/floatingsearchview
